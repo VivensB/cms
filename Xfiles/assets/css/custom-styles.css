@@ -1,0 +1,10 @@
+.navbar-customized-accounts {
+  background: linear-gradient(90deg, #c7c5f4, #776bcc) !important;
+}
+
+@media (max-width: 575px) {
+  .logo-custom {
+    width: 60px !important;
+    height: 40px !important;
+  }
+}

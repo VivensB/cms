@@ -1,0 +1,159 @@
+.navbar-customized-accounts {
+  background: linear-gradient(90deg, #c7c5f4, #776bcc) !important;
+}
+
+@media (max-width: 575px) {
+  .logo-custom {
+    width: 60px !important;
+    height: 40px !important;
+  }
+}
+
+.rounded-20 {
+  border-radius: 20px !important;
+}
+
+.rounded-50 {
+  border-radius: 50% !important;
+}
+
+.rounded-10 {
+  border-radius: 10px !important;
+}
+
+.rounded-8 {
+  border-radius: 8px !important;
+}
+
+.rounded-top-right-20 {
+  border-top-right-radius: 20px !important;
+}
+
+.rounded-top-left-20 {
+  border-top-left-radius: 20px !important;
+}
+
+.rounded-bottom-right-20 {
+  border-bottom-right-radius: 20px !important;
+}
+
+.rounded-bottom-left-20 {
+  border-bottom-left-radius: 20px !important;
+}
+
+.rounded-right-10 {
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.rounded-left-10 {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+
+.rounded-right-20 {
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.rounded-left-20 {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+
+.text-9 {
+  font-size: 9px !important;
+}
+
+
+.text-10 {
+  font-size: 10px !important;
+}
+
+.text-11 {
+  font-size: 11px !important;
+}
+
+.text-12 {
+  font-size: 12px !important;
+}
+
+.text-13 {
+  font-size: 13px !important;
+}
+
+.text-14 {
+  font-size: 14px !important;
+}
+
+.text-15 {
+  font-size: 15px !important;
+}
+
+.text-16 {
+  font-size: 16px !important;
+}
+
+.text-17 {
+  font-size: 17px !important;
+}
+
+.text-18 {
+  font-size: 18px !important;
+}
+
+.text-19 {
+  font-size: 19px !important;
+}
+
+.text-20 {
+  font-size: 20px !important;
+}
+
+.text-21 {
+  font-size: 21px !important;
+}
+
+.text-rm-1 {
+  font-size: 1rem !important;
+}
+
+.text-rm-2 {
+  font-size: 2rem !important;
+}
+
+.text-rm-3 {
+  font-size: 3rem !important;
+}
+
+.text-rm-4 {
+  font-size: 4rem !important;
+}
+
+.text-rm-5 {
+  font-size: 5rem !important;
+}
+
+.text-rm-6 {
+  font-size: 6rem !important;
+}
+
+.text-rm-7 {
+  font-size: 7rem !important;
+}
+
+.indent-0 {
+  text-indent: 0 !important;
+}
+
+.indent-10 {
+  text-indent: 10px !important;
+}
+
+.indent-20 {
+  text-indent: 20px !important;
+}
+
+.indent-30 {
+  text-indent: 30px !important;
+}
