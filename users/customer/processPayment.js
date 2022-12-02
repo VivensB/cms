@@ -57,7 +57,7 @@ submit.addEventListener("click", function (e) {
     const body = JSON.stringify({
       amount: amount,
       //   callbackUrl: "http://localhost/cms/users/customer/payouts-callback.php",
-      callbackUrl: "https://www.cmshost.tk/users/customer/payouts-callback.php",
+      callbackUrl: "https://www.cmshost.tk/cms/users/customer/payouts-callback.php",
       transactionId: transactionGenerated,
       merchantId: "3bb18f64-15a8-4c28-a189-2420fed2cf4e",
       receiverAccount: phone,

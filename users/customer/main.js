@@ -39,7 +39,7 @@ submit.addEventListener("click", function (e) {
       amount: amount,
       organizationId: "3bb18f64-15a8-4c28-a189-2420fed2cf4e",
       description: "CMS Account loading",
-      callbackUrl: "https://www.cmshost.tk/users/customer/callback.php",
+      callbackUrl: "https://www.cmshost.tk/cms/users/customer/callback.php",
       transactionId: transactionGenerated,
     });
     // console.log("TXT Ref 1", transactionGenerated);
